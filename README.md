@@ -24,6 +24,36 @@ Live : https://ainfluencer.com/
 | 7       | Chat functionality                                                    |
 
 
+## Admin Pannels
+Live Urls :
+
+https://team.viadm.co/</br>
+https://app.viadm.co/dashboard</br>
+https://manager.viadm.co/dashboard
+
+<div>
+<img width="400" alt="Screenshot 2023-10-21 at 11 56 05 PM" src="https://github.com/bibhuti9/portfolio/assets/36328136/c85e04bd-204b-450a-a4a4-177ffc76bdc9">
+<img width="400" alt="Screenshot 2023-10-21 at 11 55 51 PM" src="https://github.com/bibhuti9/portfolio/assets/36328136/ce69965a-4bf2-4eac-bb85-5822f6a2d0ca">
+<img width="400" alt="Screenshot 2023-10-21 at 11 55 43 PM" src="https://github.com/bibhuti9/portfolio/assets/36328136/ad7acd35-7837-4e49-b1c3-49751ab15d99">
+<img width="400" alt="Screenshot 2023-10-21 at 11 54 33 PM" src="https://github.com/bibhuti9/portfolio/assets/36328136/43f79326-d12f-4121-9d67-bb88f1f30d89">
+<img width="400" alt="Screenshot 2023-10-21 at 11 54 22 PM" src="https://github.com/bibhuti9/portfolio/assets/36328136/0efdcfce-2b74-4d33-9a7f-b190cf788cec">
+<img width="400" alt="Screenshot 2023-10-21 at 11 54 11 PM" src="https://github.com/bibhuti9/portfolio/assets/36328136/57d5d716-44be-4d98-ac61-cad3a49bea86">
+<img width="400" alt="Screenshot 2023-10-21 at 11 54 00 PM" src="https://github.com/bibhuti9/portfolio/assets/36328136/b81a59f7-33ca-4d26-bb8e-1da805c7dff9">
+</div></br>
+
+| No      | Tools & Tech                                                          |
+| ------- | ------------------------------------------------------------------    |
+| 1       | Type Script                                                           |
+| 2       | Website                                                               |
+| 3       | Mobx / Redux                                                          |
+| 4       | Firebase / Node                                                       |
+| 6       | Push Notification                                                     |
+| 7       | Chat functionality                                                    |
+| 8       | Payment integration                                                   |
+| 9       | Authontication                                                        |
+
+</br></br>
+
 ## 2. TuduB
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
@@ -97,6 +127,9 @@ Live : https://ainfluencer.com/
 | 4       | Firebase                                                              |
 | 5       | Node                                                                  |
 | 6       | Push Notification                                                     |
+
+
+
 
 
 
