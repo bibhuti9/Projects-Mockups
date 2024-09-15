@@ -1,4 +1,53 @@
 
+## EllingsenX - Payment Wallet Made Simple
+
+EllingsenX is a user-friendly app that helps you track and manage all your transactions in one place. It provides clear, easy-to-read charts so you can quickly understand your spending patterns.
+
+### Key Features:
+
+**Transaction Tracking**: Real-time updates for all your payments.<br/>
+**Charts**: Visualize your spending with simple charts.<br/>
+**Secure Verification**: Face and document verification for added security.<br/>
+**Stripe Integration**: Fast, secure payments.<br/>
+**Push Notifications**: Get instant alerts for transactions and updates.<br/>
+**Authentication**: Secure login to protect your account.<br/>
+
+
+### Technology:
+
+**Frontend**: React Native (Expo)<br/>
+**Backend**: Node.js and MongoDB<br/>
+**Integrations**: Stripe, push notifications, authentication<br/>
+EllingsenX offers a secure and easy way to manage your finances with a clean and modern interface.
+
+
+![Group 5](https://github.com/user-attachments/assets/66d02535-7fa6-47e8-b905-c9d96bfe384f)
+
+
+
+## iimiin - Social Media Meets E-Commerce
+
+iimiin is an innovative social media platform where users can sell products through live video streams or custom-uploaded videos. Viewers can watch these live streams and make purchases directly from the video, creating an interactive shopping experience.
+
+### Key Features:
+
+**Live Streaming & Video Shopping**: Users can host live video streams to showcase and sell products, and viewers can purchase directly from the stream.
+**User Profiles & Analytics**: Each user has a profile with analytics and graphs to track performance and sales.
+**Chat Feature**: Engage with customers through built-in chat, fostering a direct connection with your audience.
+**Seamless Transactions**: Powered by Stripe for secure payments.
+**Push Notifications**: Stay informed with real-time updates and notifications via Firebase.
+
+
+### Technology Stack:
+
+**Frontend**: Built with Expo and React Native for smooth mobile experiences.
+**Backend**: Powered by MongoDB, with integrated live streaming support.
+**Integrations**: Stripe for payments, and Firebase for push notifications.
+iimiin blends social interaction with e-commerce, offering users a unique platform to sell products and engage with their audience in real-time.
+
+![Group 6](https://github.com/user-attachments/assets/5bc81327-436a-4c31-a475-6e1f4ed83910)
+
+
 
 ## Sanatan Dharmaya
 
